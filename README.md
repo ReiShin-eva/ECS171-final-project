@@ -2,7 +2,7 @@
 
 Predicting gold prices using macroeconomic indicators via neural network time-series analysis.
 
-**Team:** Maxwell Chen, Rundong Hu, Logan Tadano, Kushagra Sehgal  
+**Team:** Maxwell Chen, Rundong Hu, Logan Tadano, Kushagra Sehgal, Bryan Rahardja
 **Course:** ECS171 — Machine Learning, UC Davis
 
 ---
